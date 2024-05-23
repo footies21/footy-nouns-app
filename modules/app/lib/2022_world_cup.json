@@ -1,0 +1,578 @@
+[
+  {
+    "contestId": "2022_world_cup_group_stage_1",
+    "datetime": "2022-11-21T05:00:00",
+    "homeTeam": "Senegal",
+    "awayTeam": "Netherlands",
+    "name": "Senegal vs Netherlands",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_1",
+    "datetime": "2022-11-21T11:00:00",
+    "homeTeam": "Qatar",
+    "awayTeam": "Ecuador",
+    "name": "Qatar vs Ecuador",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_1",
+    "datetime": "2022-11-21T08:00:00",
+    "homeTeam": "England",
+    "awayTeam": "IR Iran",
+    "name": "England vs IR Iran",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_1",
+    "datetime": "2022-11-21T14:00:00",
+    "homeTeam": "USA",
+    "awayTeam": "Wales",
+    "name": "USA vs Wales",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_1",
+    "datetime": "2022-11-22T05:00:00",
+    "homeTeam": "Argentina",
+    "awayTeam": "Saudi Arabia",
+    "name": "Argentina vs Saudi Arabia",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_1",
+    "datetime": "2022-11-22T11:00:00",
+    "homeTeam": "Mexico",
+    "awayTeam": "Poland",
+    "name": "Mexico vs Poland",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_1",
+    "datetime": "2022-11-22T08:00:00",
+    "homeTeam": "Denmark",
+    "awayTeam": "Tunisia",
+    "name": "Denmark vs Tunisia",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_1",
+    "datetime": "2022-11-22T14:00:00",
+    "homeTeam": "France",
+    "awayTeam": "Australia",
+    "name": "France vs Australia",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_1",
+    "datetime": "2022-11-23T08:00:00",
+    "homeTeam": "Germany",
+    "awayTeam": "Japan",
+    "name": "Germany vs Japan",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_1",
+    "datetime": "2022-11-23T11:00:00",
+    "homeTeam": "Spain",
+    "awayTeam": "Costa Rica",
+    "name": "Spain vs Costa Rica",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_1",
+    "datetime": "2022-11-23T05:00:00",
+    "homeTeam": "Morocco",
+    "awayTeam": "Croatia",
+    "name": "Morocco vs Croatia",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_1",
+    "datetime": "2022-11-23T14:00:00",
+    "homeTeam": "Belgium",
+    "awayTeam": "Canada",
+    "name": "Belgium vs Canada",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_1",
+    "datetime": "2022-11-24T05:00:00",
+    "homeTeam": "Switzerland",
+    "awayTeam": "Cameroon",
+    "name": "Switzerland vs Cameroon",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_1",
+    "datetime": "2022-11-24T14:00:00",
+    "homeTeam": "Brazil",
+    "awayTeam": "Serbia",
+    "name": "Brazil vs Serbia",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_1",
+    "datetime": "2022-11-24T08:00:00",
+    "homeTeam": "Uruguay",
+    "awayTeam": "South Korea",
+    "name": "Uruguay vs South Korea",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_1",
+    "datetime": "2022-11-24T11:00:00",
+    "homeTeam": "Portugal",
+    "awayTeam": "Ghana",
+    "name": "Portugal vs Ghana",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_2",
+    "datetime": "2022-11-25T08:00:00",
+    "homeTeam": "Qatar",
+    "awayTeam": "Senegal",
+    "name": "Qatar vs Senegal",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_2",
+    "datetime": "2022-11-25T11:00:00",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Ecuador",
+    "name": "Netherlands vs Ecuador",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_2",
+    "datetime": "2022-11-25T05:00:00",
+    "homeTeam": "Wales",
+    "awayTeam": "IR Iran",
+    "name": "Wales vs IR Iran",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_2",
+    "datetime": "2022-11-25T14:00:00",
+    "homeTeam": "England",
+    "awayTeam": "USA",
+    "name": "England vs USA",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_2",
+    "datetime": "2022-11-26T08:00:00",
+    "homeTeam": "Poland",
+    "awayTeam": "Saudi Arabia",
+    "name": "Poland vs Saudi Arabia",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_2",
+    "datetime": "2022-11-26T14:00:00",
+    "homeTeam": "Argentina",
+    "awayTeam": "Mexico",
+    "name": "Argentina vs Mexico",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_2",
+    "datetime": "2022-11-26T05:00:00",
+    "homeTeam": "Tunisia",
+    "awayTeam": "Australia",
+    "name": "Tunisia vs Australia",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_2",
+    "datetime": "2022-11-26T11:00:00",
+    "homeTeam": "France",
+    "awayTeam": "Denmark",
+    "name": "France vs Denmark",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_2",
+    "datetime": "2022-11-27T05:00:00",
+    "homeTeam": "Japan",
+    "awayTeam": "Costa Rica",
+    "name": "Japan vs Costa Rica",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_2",
+    "datetime": "2022-11-27T14:00:00",
+    "homeTeam": "Spain",
+    "awayTeam": "Germany",
+    "name": "Spain vs Germany",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_2",
+    "datetime": "2022-11-27T08:00:00",
+    "homeTeam": "Belgium",
+    "awayTeam": "Morocco",
+    "name": "Belgium vs Morocco",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_2",
+    "datetime": "2022-11-27T11:00:00",
+    "homeTeam": "Croatia",
+    "awayTeam": "Canada",
+    "name": "Croatia vs Canada",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_2",
+    "datetime": "2022-11-28T05:00:00",
+    "homeTeam": "Cameroon",
+    "awayTeam": "Serbia",
+    "name": "Cameroon vs Serbia",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_2",
+    "datetime": "2022-11-28T11:00:00",
+    "homeTeam": "Brazil",
+    "awayTeam": "Switzerland",
+    "name": "Brazil vs Switzerland",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_2",
+    "datetime": "2022-11-28T08:00:00",
+    "homeTeam": "South Korea",
+    "awayTeam": "Ghana",
+    "name": "South Korea vs Ghana",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_2",
+    "datetime": "2022-11-28T14:00:00",
+    "homeTeam": "Portugal",
+    "awayTeam": "Uruguay",
+    "name": "Portugal vs Uruguay",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_3",
+    "datetime": "2022-11-29T10:00:00",
+    "homeTeam": "Netherlands",
+    "awayTeam": "Qatar",
+    "name": "Netherlands vs Qatar",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_3",
+    "datetime": "2022-11-29T10:00:00",
+    "homeTeam": "Ecuador",
+    "awayTeam": "Senegal",
+    "name": "Ecuador vs Senegal",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_3",
+    "datetime": "2022-11-29T14:00:00",
+    "homeTeam": "Wales",
+    "awayTeam": "England",
+    "name": "Wales vs England",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_3",
+    "datetime": "2022-11-29T14:00:00",
+    "homeTeam": "IR Iran",
+    "awayTeam": "USA",
+    "name": "IR Iran vs USA",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_3",
+    "datetime": "2022-11-30T14:00:00",
+    "homeTeam": "Poland",
+    "awayTeam": "Argentina",
+    "name": "Poland vs Argentina",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_3",
+    "datetime": "2022-11-30T14:00:00",
+    "homeTeam": "Saudi Arabia",
+    "awayTeam": "Mexico",
+    "name": "Saudi Arabia vs Mexico",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_3",
+    "datetime": "2022-11-30T10:00:00",
+    "homeTeam": "Tunisia",
+    "awayTeam": "France",
+    "name": "Tunisia vs France",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_3",
+    "datetime": "2022-11-30T10:00:00",
+    "homeTeam": "Australia",
+    "awayTeam": "Denmark",
+    "name": "Australia vs Denmark",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_3",
+    "datetime": "2022-12-01T14:00:00",
+    "homeTeam": "Japan",
+    "awayTeam": "Spain",
+    "name": "Japan vs Spain",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_3",
+    "datetime": "2022-12-01T14:00:00",
+    "homeTeam": "Costa Rica",
+    "awayTeam": "Germany",
+    "name": "Costa Rica vs Germany",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_3",
+    "datetime": "2022-12-01T10:00:00",
+    "homeTeam": "Croatia",
+    "awayTeam": "Belgium",
+    "name": "Croatia vs Belgium",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_3",
+    "datetime": "2022-12-01T10:00:00",
+    "homeTeam": "Canada",
+    "awayTeam": "Morocco",
+    "name": "Canada vs Morocco",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_3",
+    "datetime": "2022-12-02T14:00:00",
+    "homeTeam": "Cameroon",
+    "awayTeam": "Brazil",
+    "name": "Cameroon vs Brazil",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_3",
+    "datetime": "2022-12-02T14:00:00",
+    "homeTeam": "Serbia",
+    "awayTeam": "Switzerland",
+    "name": "Serbia vs Switzerland",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_3",
+    "datetime": "2022-12-02T10:00:00",
+    "homeTeam": "South Korea",
+    "awayTeam": "Portugal",
+    "name": "South Korea vs Portugal",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_group_stage_3",
+    "datetime": "2022-12-02T10:00:00",
+    "homeTeam": "Ghana",
+    "awayTeam": "Uruguay",
+    "name": "Ghana vs Uruguay",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_round_of_16",
+    "datetime": "2022-12-03T10:00:00",
+    "homeTeam": "Netherlands",
+    "awayTeam": "USA",
+    "name": "Netherlands vs USA",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_round_of_16",
+    "datetime": "2022-12-03T14:00:00",
+    "homeTeam": "Argentina",
+    "awayTeam": "Australia",
+    "name": "Argentina vs Australia",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_round_of_16",
+    "datetime": "2022-12-04T10:00:00",
+    "homeTeam": "France",
+    "awayTeam": "Poland",
+    "name": "France vs Poland",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_round_of_16",
+    "datetime": "2022-12-04T14:00:00",
+    "homeTeam": "England",
+    "awayTeam": "Senegal",
+    "name": "England vs Senegal",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_round_of_16",
+    "datetime": "2022-12-05T10:00:00",
+    "homeTeam": "Japan",
+    "awayTeam": "Croatia",
+    "name": "Japan vs Croatia",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_round_of_16",
+    "datetime": "2022-12-05T14:00:00",
+    "homeTeam": "1G",
+    "awayTeam": "2H",
+    "name": "1G vs 2H",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_round_of_16",
+    "datetime": "2022-12-06T10:00:00",
+    "homeTeam": "Morocco",
+    "awayTeam": "Spain",
+    "name": "Morocco vs Spain",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_round_of_16",
+    "datetime": "2022-12-06T14:00:00",
+    "homeTeam": "1H",
+    "awayTeam": "2G",
+    "name": "1H vs 2G",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_round_of_8",
+    "datetime": "2022-12-09T10:00:00",
+    "homeTeam": "QF1: 1E/2F",
+    "awayTeam": "1G/2H",
+    "name": "QF1: 1E/2F vs 1G/2H",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_round_of_8",
+    "datetime": "2022-12-09T14:00:00",
+    "homeTeam": "QF2: 1A/2B",
+    "awayTeam": "1C/2D",
+    "name": "QF2: 1A/2B vs 1C/2D",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_round_of_8",
+    "datetime": "2022-12-10T10:00:00",
+    "homeTeam": "QF3: 1F/2E",
+    "awayTeam": "1H/2G",
+    "name": "QF3: 1F/2E vs 1H/2G",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_round_of_8",
+    "datetime": "2022-12-10T14:00:00",
+    "homeTeam": "QF4: 1B/2A",
+    "awayTeam": "1D/2C",
+    "name": "QF4: 1B/2A vs 1D/2C",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_semifinals",
+    "datetime": "2022-12-13T14:00:00",
+    "homeTeam": "Argentina",
+    "awayTeam": "Croatia",
+    "name": "Argentina vs Croatia",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_semifinals",
+    "datetime": "2022-12-14T14:00:00",
+    "homeTeam": "France",
+    "awayTeam": "Morocco",
+    "name": "France vs Morocco",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_finals",
+    "datetime": "2022-12-17T10:00:00",
+    "homeTeam": "Semifinal losers",
+    "awayTeam": "",
+    "name": "Semifinal losers vs ",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  },
+  {
+    "contestId": "2022_world_cup_finals",
+    "datetime": "2022-12-18T10:00:00",
+    "homeTeam": "Argentina",
+    "awayTeam": "France",
+    "name": "Argentina vs France",
+    "tournamentId": "2022_world_cup",
+    "result": ""
+  }
+]

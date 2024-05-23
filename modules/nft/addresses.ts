@@ -1,0 +1,17 @@
+export const addresses: { [key: number]: any } = {
+  42161: {
+    FootyNouns: '0x4C96226495E28AE2772CD5134608Ba6efbF88169',
+    FootyNounsV2: '0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0',
+    FootyNames: '0x418aC49CF3f6138734EacfEfb18DA830F7c3a993',
+  },
+  421613: {
+    FootyNouns: '0x174c4f8e422810CC808C08D34C0A5c759f45b661',
+    FootyNounsV2: '0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0',
+    FootyNames: '0x0a4eFA4eB3354Ce07bF707A77eb56B119D126b43',
+  },
+  31337: {
+    FootyNouns: '0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0',
+    FootyNounsV2: '0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0',
+    FootyNames: '0x610178dA211FEF7D417bC0e6FeD39F05609AD788',
+  },
+};
